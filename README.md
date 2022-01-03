@@ -55,10 +55,9 @@ I like to work together, with the ability to work in multidisciplinary teams, ef
 
 <h2>💻 Some stats 💻</h2> 
 
-<a href="https://github.com/Nair-VillaGran">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nair-VillaGran&show_icons=true&hide_border=true" />
-</a>
+<p align="right">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nair-VillaGran&theme=tokyonight&show_icons=true" />
 
-<a href="https://github.com/Nair-VillaGran">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nair-VillaGran&layout=compact"/>
-</a>
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nair-VillaGran&theme=tokyonight&show_icons=true" />
+
+</p>
