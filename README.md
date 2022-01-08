@@ -5,8 +5,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Python],
-   learning: [React, Typescript],
+   code: [Javascript, Typescript, HTML, CSS, Python],
+   learning: [React, Microservices],
    technologies: {
       frontEnd: {
          css: ["Materialize","Bootstrap"]
