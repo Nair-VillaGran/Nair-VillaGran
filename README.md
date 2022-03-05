@@ -5,8 +5,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python],
-   learning: [React, Microservices],
+   code: [Javascript, Typescript, HTML, CSS, Python, Microservices],
+   learning: [ReactJs],
    technologies: {
       frontEnd: {
          css: ["Materialize","Bootstrap"]
@@ -14,7 +14,7 @@ const aboutMe = {
       backEnd: {
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "mySQL","PostgreSQL"],
    },
    challenge: "I am studying with discipline to become a fullstack developer.",
 };
