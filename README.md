@@ -86,7 +86,7 @@ I like to work together, with the ability to work in multidisciplinary teams, ef
 
 <!--icons and links-->
 <p align="center">
-<a href="www.linkedin.com/in/nairobi-villazón-web-developer-240440225" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/nairobi-villazón-web-developer-240440225" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/NairCodeVG" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="mailto:nvillazon2000@gmail.com" alt="Contact me"><img align="center" src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="50" width="50"></a>
 </p>
